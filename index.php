@@ -1,5 +1,5 @@
 <?php
-// CHAMBERLAIN-OKEZIE ADADEZE
+// CHAMBERLAIN-OKEZIE ADAEZE
 
 
 // Function to find insert position of K
